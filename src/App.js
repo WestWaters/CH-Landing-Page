@@ -263,7 +263,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Paid Minters get 1 additional NFT Pls DM,
+                  First 250 Crypto Hearts Free,
                   1 {CONFIG.SYMBOL} costs {CONFIG.DISPLAY_COST}{" "}
                   {CONFIG.NETWORK.SYMBOL}.
                 </s.TextTitle>

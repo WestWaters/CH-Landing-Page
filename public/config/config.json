@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x4ad8eaeb501c6b99b170ccc3f3dbff313dd14cd4",
-  "SCAN_LINK": "https://etherscan.io/address/0x4ad8eaeb501c6b99b170ccc3f3dbff313dd14cd4",
+  "CONTRACT_ADDRESS": "0x98b1f3d9fb9edcadfd0fe712c406c496a2300922",
+  "SCAN_LINK": "https://etherscan.io/address/0x98b1f3d9fb9edcadfd0fe712c406c496a2300922",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Crypto Hearts",
-  "SYMBOL": "CH",
-  "MAX_SUPPLY": 2500,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0.0,
+  "NFT_NAME": "Save The Brain",
+  "SYMBOL": "STB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/officialcryptohearts",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/save-the-brain",
   "SHOW_BACKGROUND": true
 }
